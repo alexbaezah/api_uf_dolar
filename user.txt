@@ -1,0 +1,10 @@
+user: 186978803
+pass: TjqSjcEQJ9kj
+
+código uf: F073.UFF.PRE.Z.D
+
+código dolar:  F073.TCO.PRE.Z.D
+
+url dolar: https://si3.bcentral.cl/SieteRestWS/SieteRestWS.ashx?user=186978803&pass=TjqSjcEQJ9kj&firstdate=2021-01-01&lastdate=2021-01-31&timeseries=F022.VDO3.PRE.Z.Z.USD.D&function=GetSeries
+
+url uf: https://si3.bcentral.cl/SieteRestWS/SieteRestWS.ashx?user=186978803&pass=TjqSjcEQJ9kj&firstdate=2021-01-01&lastdate=2021-01-31&timeseries=F073.UFF.PRE.Z.D&function=GetSeries
